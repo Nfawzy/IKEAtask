@@ -1,3 +1,4 @@
+**📌 Note: This repository is shared for review purposes only. Please do not reuse or distribute without permission.**
 **Test Scenario Approaches**
 
 **Pre - Condition** to add your device configuration 
